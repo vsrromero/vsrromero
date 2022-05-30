@@ -10,7 +10,7 @@
 - ⚡ Curiosity: I am a Brazilian (half Brazilian half Italian) living in Liverpool.
 <br />
 
-  <div align="center">
+  <div align="center"  style="display: inline_block">
     <a href="https://www.linkedin.com/in/victor-silvestrin-romero-1a803741/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vsrromero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsrromero&layout=compact&langs_count=7&theme=tokyonight"/>
