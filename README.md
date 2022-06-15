@@ -11,6 +11,13 @@
 
 <br />
 
+<div align="center"  style="display: inline_block">
+    <a href="https://www.linkedin.com/in/victor-silvestrin-romero-1a803741/">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=vsrromero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsrromero&layout=compact&langs_count=7&theme=tokyonight"/>
+    </a>
+  </div>
+
 
   <div style="display: inline_block"><br/>
     <a href="https://www.github.com/vsrromero">
