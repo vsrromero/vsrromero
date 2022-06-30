@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on HTML and CSS
 - 🤔 I’m looking for help with PHP and Laravel
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/victor-silvestrin-romero-1a803741/">LinkedIn</a>
-- ⚡ Curiosity: I am a Brazilian living in Liverpool.
+- ⚡ Curiosity: I am a Brazilian living in Liverpool since 2016.
 
 <br />
 
