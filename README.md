@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-
+- 🎉 I'm under graduated in System Analysis
+- 👔 Had worked as Business Analyst for more than 6 years
 - 🔭 I’m currently working on a personal project built with Laravel
 - 🌱 I’m currently learning (again - maybe I'd say practcing) PHP and Laravel
 - 👯 I’m looking to collaborate on HTML and CSS
