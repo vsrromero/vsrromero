@@ -5,6 +5,7 @@
 - 👔 Had worked as Business Analyst for more than 6 years
 - 🔭 I’m currently working on a personal project built with Laravel
 - 🌱 I’m currently learning (again - maybe I'd say practcing) PHP and Laravel
+- 💻 I'm studying several programing languages at once for now it is Python time :)
 - 👯 I’m looking to collaborate on HTML and CSS
 - 🤔 I’m looking for help with PHP and Laravel
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/victor-silvestrin-romero-1a803741/">LinkedIn</a>
