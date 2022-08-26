@@ -3,10 +3,9 @@
 
 - 🎉 I'm under graduated in System Analysis
 - 👔 Had worked as Business Analyst for more than 6 years
-- 🔭 I’m currently working on a personal project built with Laravel
-- 🌱 I’m currently learning (again - maybe I'd say practcing) PHP and Laravel
-- 💻 I'm studying several programing languages at once for now it is Python time :)
-- 👯 I’m looking to collaborate on HTML and CSS
+- 🔭 I’m currently working on a personal project studying to become a full stack dev engineer
+- 💻 I'm studying several programing languages at once :)
+- 👯 I’m looking to collaborate on HTML, CSS and JavaScript
 - 🤔 I’m looking for help with PHP and Laravel
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/victor-silvestrin-romero-1a803741/">LinkedIn</a>
 - ⚡ Curiosity: I am a Brazilian living in Liverpool since 2016.
