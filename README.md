@@ -1,4 +1,4 @@
-## check this **PHP** project:  
+## Check this **PHP** project:  
 📌 https://vsrromero.github.io/tech-blog/  
 📌 https://github.com/vsrromero/tech-blog
 
