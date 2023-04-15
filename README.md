@@ -1,6 +1,6 @@
 ## check this **PHP** project:  
-https://vsrromero.github.io/tech-blog/  
-https://github.com/vsrromero/tech-blog
+📌 https://vsrromero.github.io/tech-blog/  
+📌 https://github.com/vsrromero/tech-blog
 
 ### Hi there 👋
 
