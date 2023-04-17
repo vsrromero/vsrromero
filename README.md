@@ -1,6 +1,7 @@
-## Check this **PHP** project:  
-📌 https://vsrromero.github.io/tech-blog/  
-📌 https://github.com/vsrromero/tech-blog
+## Check these **PHP** projects:  
+
+📌 https://github.com/vsrromero/tech-blog  
+📌 https://github.com/vsrromero/movieManiax
 
 ### Hi there 👋
 
