@@ -1,7 +1,8 @@
-## Check these **PHP** projects:  
+## Check these **PHP / Laravel** projects:  
 
 📌 https://github.com/vsrromero/tech-blog  
-📌 https://github.com/vsrromero/movieManiax
+📌 https://github.com/vsrromero/movieManiax  
+📌 https://github.com/vsrromero/inventorymate.git
 
 ### Hi there 👋
 
