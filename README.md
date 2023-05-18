@@ -3,7 +3,7 @@
 📌 https://github.com/vsrromero/tech-blog  
 📌 https://github.com/vsrromero/movieManiax  
 📌 https://github.com/vsrromero/inventorymate.git  
-📌 https://github.com/vsrromero/task_manager.git
+📌 https://github.com/vsrromero/task_manager.git  
 📌 https://github.com/vsrromero/autogo (rest API project)
 
 ### Hi there 👋
