@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6833ff&height=150&text=Full%20Stack%20Software%20Engineer&animation=twinkling&fontColor=F8E7DE&fontSize=40&fontAlign=65&fontAlignY=30" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=8899FF&background=FFFFFF00&vCenter=true&multiline=true&width=435&separator=%3D&lines=%3C%3F+echo+%22Hello+World!%22;+%3F%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=2000&color=8899FF&background=FFFFFF00&vCenter=true&multiline=true&width=435&separator=%3D&lines=%3C%3F+echo+%22Hello+World!%22;+%3F%3E" alt="Typing SVG" /></a>
 
 
   
