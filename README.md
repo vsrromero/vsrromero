@@ -6,7 +6,7 @@
 ## Check these **PHP / Laravel** projects:  
 
 📌 https://github.com/vsrromero/autogo (rest API project)  
-📌 https://github.com/vsrromero/tech-blog  
+📌 https://victorromero.co.uk/portfolio/techblog/  
 📌 https://github.com/vsrromero/movieManiax  
 📌 https://github.com/vsrromero/inventorymate.git  
 📌 https://github.com/vsrromero/task_manager.git  
